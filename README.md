@@ -1,1 +1,1 @@
-# workshop-websocket-apis-fundamentals
+# workshop-websocket-api-fundamentals
